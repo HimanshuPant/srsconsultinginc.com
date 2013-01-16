@@ -1,0 +1,2 @@
+We are using a while loop which will exit only we are pressing key 8
+for remaining keys, it will either execute case statement or show menu options.
