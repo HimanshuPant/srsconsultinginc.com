@@ -3,6 +3,8 @@ srsconsultinginc.com
 
 srsconsultinginc.com interview assignment
 
+This program can perform following operations.
+
 1.       Change Password
 
 2.       See the disk space
@@ -18,3 +20,9 @@ srsconsultinginc.com interview assignment
 7.       Facility to kill a  app
 
 8.       Exit
+
+To run this program, we need execute permission on file
+
+chmod +x himanshu
+
+now run file. and provide options as per the menu available.
