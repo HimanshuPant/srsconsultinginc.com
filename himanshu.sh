@@ -1,7 +1,7 @@
 #!/bin/bash
 printmenu(){
 
-  echo ' 1.	Change Password';
+  	echo ' 1.	Change Password';
 
 	echo ' 2.	See the disk space';
 
